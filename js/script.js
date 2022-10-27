@@ -29,7 +29,7 @@ $(document).ready(function() {
         pagination: false
     });
     var typed = new Typed(".typed",{
-        strings: ["Software Engineer.","Aspiring Project Manager.","Student.","Food Enthusiast","Adventurer","Lifelong Learner."],
+        strings: ["Ex-Software Engineer.","Aspiring Product Manager.","Food Enthusiast","Adventurer","Lifelong Learner."],
         typeSpeed: 70,
         loop: true,
         startDelay: 1000,
